@@ -1,4 +1,3 @@
-markdown
    <h1 align="center">Hi, I'm Daniel Weng 👋</h1>
    <p align="center">alt="status"/>
    </p>
