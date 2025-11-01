@@ -19,4 +19,4 @@
 
    <!-- 📫Contacts -->
    - Email: daniel0902life@gmail.com  
-   - LinkedIn: [https://www.linkedin.com/in/danielweng0902/)
+   - [LinkedIn](https://www.linkedin.com/in/danielweng0902/): https://www.linkedin.com/in/danielweng0902/
