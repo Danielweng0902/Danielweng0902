@@ -24,14 +24,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Danielweng0902&theme=radical" />
 </p>
 
-## Open Source Contribution Stats
-
-<p align="left">
-  <img src="https://img.shields.io/badge/PRs-Welcome-blue?style=flat-square"/>
-  <img src="https://img.shields.io/github/issues-pr/Danielweng0902?style=flat-square"/>
-  <img src="https://img.shields.io/github/issues/Danielweng0902?style=flat-square"/>
-</p>
-
 ## Featured Project（進行中 / 已完成）
 
 ### [Mood-DJ](https://github.com/Danielweng0902/Mood-DJ)  
